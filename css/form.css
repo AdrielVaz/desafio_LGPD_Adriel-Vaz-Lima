@@ -1,0 +1,98 @@
+.fordform {
+    display: block;
+    width: 300px;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    height: 26px;
+    margin: 8px;
+    font-size: 13px;
+    padding: 5px;
+}
+
+select.fordform {
+    width: 310px;
+    height: 36px;
+    color: #807d7d;
+}
+
+input:focus-visible {
+    outline: none;
+}
+
+select:focus-visible {
+    outline: none;
+}
+
+main div {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.forms {
+    display: block;
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+    font-weight: 800;
+}
+
+
+button {
+    width: 200px;
+    height: 40px;
+    margin-right: 8px;
+    float: right;
+    margin-top: 20px;
+}
+
+.titulo {
+    margin-left: 8px;
+}
+.forms p{
+    text-align: justify;
+ margin-left: 10px;   
+ font-size: 13px;
+}
+.container-forms{
+    max-width: 320px;
+  
+}
+.container-forms span{
+    font-size: 13px;
+}
+
+
+/*.modal-content {
+    background-color: white;
+    padding: 20px;
+    width: 80%;
+    max-width: 600px;
+    max-height: 80%;
+    overflow-y: auto;
+}
+
+.scroll-container {
+    max-height: 200px;
+    overflow-y: scroll;
+    margin-bottom: 15px;
+}
+
+button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+*/
+
